@@ -1,5 +1,9 @@
 <?php
 
+// keogram
+// (c) Cedric Raguenaud 2021
+// Released under CC BY 4.0
+
 $keogramfile = "keogram.jpg";
 $sourcedir = "./temp/";
 
